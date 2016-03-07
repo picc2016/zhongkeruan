@@ -1,0 +1,12 @@
+[1mdiff --git a/index.jsp b/index.jsp[m
+[1mindex 28539ee..795f5fb 100644[m
+[1m--- a/index.jsp[m
+[1m+++ b/index.jsp[m
+[36m@@ -22,6 +22,6 @@[m [mString basePath = request.getScheme()+"://"+request.getServerName()+":"+request.[m
+   [m
+   <body>[m
+     This is my JSP page. <br>[m
+[31m-    <h1>hello world</h1>[m
+[32m+[m[32m    <h1>hello world baby</h1>[m
+   </body>[m
+ </html>[m
